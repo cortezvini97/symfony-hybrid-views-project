@@ -20,7 +20,10 @@
         "symfony/security-bundle": "*",
         "symfony/twig-bundle": "*",
         "symfony/webpack-encore-bundle": "^2.1",
-        "cortezvini97/symfony-hybrid-views-bundle": "^1.0"
+        "cortezvini97/symfony-hybrid-views-bundle": "^1.0",
+        "doctrine/doctrine-bundle": "*",
+        "doctrine/doctrine-migrations-bundle": "*",
+        "doctrine/orm": "*"
     },
     "require-dev": {
         "symfony/maker-bundle": "^1.60"
